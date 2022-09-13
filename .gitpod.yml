@@ -1,7 +1,2 @@
-        
-      image:
+image:
   file: .gitpod.Dockerfile
-
-vscode:
-  extensions:
-    - felixfbecker.php-debug
