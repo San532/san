@@ -17,6 +17,8 @@
 </body>
 <ml>
 <?php
+
+error_
   //商场打折小程序
   // if (isset($_GET["s"]))
   // $Original_price=$_GET["price"];//原价为500元
